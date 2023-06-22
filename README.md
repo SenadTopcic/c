@@ -1,5 +1,5 @@
-# c
-This Git repository is dedicated to showcasing my projects and code examples in the C programming language. It serves as a collection of C programs that demonstrate my understanding of fundamental concepts and my ability to develop efficient and robust software in C.
+This is my learning path in C
+In this folder are included project written in C
 
 ft_printf.c                 recode printf()
 
@@ -17,11 +17,11 @@ push_swap.c                 This project will make you sort data on a stack, wit
 
 learn_c
 
-    divisibleByFive.c       This is a C Program that calculates the number of integers divisible by 5 in the given range.
+    divisibleByFive.c       This is a C Program which calculates the number of integers divisible by 5 in the given range.
 
     evenOrOdd.c             is even or odd
-    increaseAllDigOne.c     This program increases 1 to all of the given integer digit and prints the sum of all digits
-    largestNumOfTree.c      C program that takes the 3 numbers, sorts them, and finds the largest number among three numbers.
+    increaseAllDigOne.c     This program increases 1 to all of the given integer digit and print the sum of all digits
+    largestNumOfTree.c      C program that takes the 3 numbers, sort them and finds the largest number Aamong three numbers.
     sumOfDigits.c           Sum of digits in a C program allows a user to enter any number, divide that number into individual
                             numbers, and sum     those individual numbers.
     sumOfEvenOddInRange.c   The program takes the number N and finds the sum of odd and even numbers from 1 to N.
